@@ -1,3 +1,6 @@
 Интересное из sharing
 googleовский робот для собеседований
 https://grow.google/certificates/interview-warmup/
+
+
+Отличный сервис для тренировки составления REST запросов. С подсказками, ответами, а ещё и с проверкой правильности выполнения заданий) https://apichallenges.herokuapp.com
